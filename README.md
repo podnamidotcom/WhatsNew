@@ -10,5 +10,3 @@ The latest features and improvements in [PodNami](https://podnami.com). Newest f
 - **[February 2026](2026-02.md)** — Studio Preview Mode, shareable clips, Language Lab launch, geo-personalization, single co-host mode
 
 ---
-
-_Files are named `YYYY-MM.md` so they always sort chronologically in the file list. This index is ordered newest-first for readers. To add a month, drop in a new `YYYY-MM.md` and add a link at the top of the list above._
