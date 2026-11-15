@@ -2,6 +2,7 @@
 
 The latest features and improvements in [PodNami](https://podnami.com). Newest first.
 
+- **[October 2026](2026-10.md)** — Signature Voices (and request your own), speech recognition that hears you properly, faster conversations on mobile, privacy, Language Lab correction, a batch of visible fixes
 - **[September 2026](2026-09.md)** — Ask Producer, Pre-Show Brief rundowns, No-Host Show, Co-Host Memory, more natural conversations, speech and language handling, Tarot and Visualizer polish, Thinking to Script
 - **[August 2026](2026-08.md)** — Speaker Mode, Tarot Story (shareable page + video), Tarot on mobile, Co-Host Show, Thinking Rooms, Language Lab (Swedish + real teaching), LLM Rankings, smoother conversations, Pre-Show Brief pages
 - **[July 2026](2026-07.md)** — Tarot Readings, Response Length (Verbose/Sharp), faster responses, conversation quality, Claude Haiku 4.5
